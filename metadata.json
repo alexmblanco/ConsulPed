@@ -1,0 +1,7 @@
+{
+  "name": "Consultorio Pediátrico | Arrob@ Blanco",
+  "description": "Una plataforma integral para pediatras que incluye control de citas, expedientes de pacientes con curvas de crecimiento, gestión financiera y un asistente de IA para resúmenes clínicos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
